@@ -1,0 +1,2 @@
+# awsbuddy
+first aws repository
